@@ -125,7 +125,7 @@ export default function DishSelection({ mood, onBack }) {
 
                 {/* --- LOGO --- */}
                 <div className="mt-8 opacity-60 scale-75">
-                    <img src="/duygu-image/logo.png" alt="Logo" className="w-40 h-30 object-contain" />
+                    <img src="/duygu-image/logo.png" alt="Logo" className="w-30 h-30 object-contain" />
                 </div>
             </div>
         </motion.div>
